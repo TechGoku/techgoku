@@ -24,4 +24,5 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 
 <b> Email : techgoku@beldex.io </b>
 
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=techgoku" />
 
