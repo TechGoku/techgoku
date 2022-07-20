@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 Welcome to my Github profile!</b> <br>
 Scroll down below to find what I do, what I am doing, and what I am upto.<br>   
 <i>Want to collaborate, reach me below.</i>
+
+<b> Email : techgoku@beldex.io </b>
+
+
