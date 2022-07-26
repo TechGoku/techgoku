@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 Welcome to my Github profile!</b> <br>
 Scroll down below to find what I do, what I am doing, and what I am upto.<br>   
 <i>Want to collaborate, reach me below.</i>
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=dhivadhiva.visitor-badge)
+<div align="center">
 <b> Email : techgoku@beldex.io </b>
 
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=techgoku" />
-
+  <img src="https://activity-graph.herokuapp.com/graph?username=dhivadhiva&theme=github" alt="GitHub Activity Graph" width="100%" />
+<h1 align="center">Have a nice day! <br><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"></h1>
