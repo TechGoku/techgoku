@@ -33,11 +33,6 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=techgoku" />
 
-
-  <img src="https://activity-graph.herokuapp.com/graph?username=techgoku&theme=github" alt="GitHub Activity Graph" width="100%" />
-
-
-
 <h1 align="center">Have a nice day! <br><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"></h1>
 
 
